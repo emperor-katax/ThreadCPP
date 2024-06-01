@@ -1,5 +1,4 @@
 # ThreadCPP
-Using thread with C++
 Developed with Unreal Engine 4.26  <br> 
 by: Katax
 
